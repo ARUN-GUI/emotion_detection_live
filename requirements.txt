@@ -2,3 +2,4 @@ streamlit
 tensorflow
 scikit-learn
 matplotlib
+h5py
